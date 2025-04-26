@@ -1,4 +1,4 @@
-# ProgrammingMarathonExercises
+# Programming Marathon Exercises
 Exercise codes and participation in programming marathons.
 Includes:
 - Codeforce and Beecrowd exercises
