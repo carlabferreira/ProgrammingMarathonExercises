@@ -1,0 +1,1 @@
+# TREMdle: Treino para a Maratona Diário e Legal 2025
